@@ -1,7 +1,7 @@
 # airbnb-business-performance-dashboard
 # 🏡 Airbnb Business Performance Analysis Dashboard | Power BI
 
-![screenshoots/Bookings_page.png]
+![screenshoots/Bookings_Page.png]
 ![screenshoots/Cancellation_Page.png]
 ![screenshoots/Revenue_Page.png]
 
@@ -147,7 +147,7 @@ Premium properties such as **penthouses and villas generate the highest revenue*
 # 📷 Dashboard Preview
 
 ## Booking Insights
-![Bookings Dashboard](screenshoots/Bookings_Page.png)
+![Bookings Dashboard](screenshoots/Bookings_page.png)
 
 ## Cancellation Analysis
 ![Cancellation Dashboard](screenshoots/Cancellation_Page.png)
