@@ -8,7 +8,7 @@
 
 ## Dashboard Preview
 
-![Airbnb Dashboard](screenshoots/Bookings_Page.png)
+![Bookings Dashboard](screenshoots/Bookings_page.png)
 
 ---
 
