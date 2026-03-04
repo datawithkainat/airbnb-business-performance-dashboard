@@ -147,7 +147,7 @@ Premium properties such as **penthouses and villas generate the highest revenue*
 # 📷 Dashboard Preview
 
 ## Booking Insights
-![Bookings Dashboard](images/bookings_dashboard.png)
+![Bookings Dashboard](screenshoots/bookings_dashboard.png)
 
 ## Cancellation Analysis
 ![Cancellation Dashboard](images/cancellation_dashboard.png)
