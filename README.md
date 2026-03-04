@@ -1,10 +1,14 @@
 # airbnb-business-performance-dashboard
 # 🏡 Airbnb Business Performance Analysis Dashboard | Power BI
 
-![screenshoots/Bookings_Page.png]
-![screenshoots/Cancellation_Page.png]
-![screenshoots/Revenue_Page.png]
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Domain](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
+![Focus](https://img.shields.io/badge/Focus-Business%20Intelligence-green)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
+## Dashboard Preview
+
+![Airbnb Dashboard](screenshoots/Bookings_Page.png)
 
 ---
 
